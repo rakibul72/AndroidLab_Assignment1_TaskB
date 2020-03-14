@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment1_TaskB</string>
+    <string name="editText1_text">Enter first number</string>
+    <string name="editText2_text">Enter second number</string>
+    <string name="add_text">Add</string>
+    <string name="sub_text">Subtract</string>
+    <string name="gender_text">What is your Gender?</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="marital_text">What is your Marital Status?</string>
+    <string name="married_text">Married</string>
+    <string name="unmarried_text">Unmarried</string>
+    <string name="wifioff_text">WiFi OFF</string>
+    <string name="wifion_text">WiFi ON</string>
+
+    <string-array name="Country">
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Germany</item>
+    </string-array>
+</resources>
